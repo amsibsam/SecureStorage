@@ -1,0 +1,16 @@
+PODS:
+  - SecureStorage (0.1.0)
+
+DEPENDENCIES:
+  - SecureStorage (from `../`)
+
+EXTERNAL SOURCES:
+  SecureStorage:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  SecureStorage: cc30068869ab378cdddac6219012449953923307
+
+PODFILE CHECKSUM: 461dae0d602cf8ad829bdbc43d5436df1f8af8f6
+
+COCOAPODS: 1.11.2

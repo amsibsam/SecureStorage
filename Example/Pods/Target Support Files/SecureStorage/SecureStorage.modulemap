@@ -1,0 +1,6 @@
+framework module SecureStorage {
+  umbrella header "SecureStorage-umbrella.h"
+
+  export *
+  module * { export * }
+}
